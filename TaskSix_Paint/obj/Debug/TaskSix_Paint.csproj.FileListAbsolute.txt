@@ -1,0 +1,133 @@
+C:\Users\alexg\Desktop\лабы\2nd course\OOP\TaskSix_Paint\TaskSix_Paint\obj\Debug\TaskSix_Paint.csprojResolveAssemblyReference.cache
+C:\Users\alexg\Desktop\лабы\2nd course\OOP\TaskSix_Paint\TaskSix_Paint\obj\Debug\TaskSix_Paint.Form1.resources
+C:\Users\alexg\Desktop\лабы\2nd course\OOP\TaskSix_Paint\TaskSix_Paint\obj\Debug\TaskSix_Paint.Properties.Resources.resources
+C:\Users\alexg\Desktop\лабы\2nd course\OOP\TaskSix_Paint\TaskSix_Paint\obj\Debug\TaskSix_Paint.csproj.GenerateResource.Cache
+C:\Users\alexg\Desktop\лабы\2nd course\OOP\TaskSix_Paint\TaskSix_Paint\obj\Debug\TaskSix_Paint.csproj.CoreCompileInputs.cache
+C:\Users\alexg\Desktop\лабы\2nd course\OOP\TaskSix_Paint\TaskSix_Paint\bin\Debug\TaskSix_Paint.exe
+C:\Users\alexg\Desktop\лабы\2nd course\OOP\TaskSix_Paint\TaskSix_Paint\bin\Debug\TaskSix_Paint.pdb
+C:\Users\alexg\Desktop\лабы\2nd course\OOP\TaskSix_Paint\TaskSix_Paint\obj\Debug\TaskSix_Paint.exe
+C:\Users\alexg\Desktop\лабы\2nd course\OOP\TaskSix_Paint\TaskSix_Paint\obj\Debug\TaskSix_Paint.pdb
+C:\Users\студент\Desktop\TaskSix_Paint\TaskSix_Paint\obj\Debug\TaskSix_Paint.exe
+C:\Users\студент\Desktop\TaskSix_Paint\TaskSix_Paint\obj\Debug\TaskSix_Paint.pdb
+C:\Users\alexg\Desktop\лабы\TaskSix_Paint\TaskSix_Paint\obj\Debug\TaskSix_Paint.csprojResolveAssemblyReference.cache
+C:\Users\alexg\Desktop\лабы\TaskSix_Paint\TaskSix_Paint\obj\Debug\TaskSix_Paint.Form1.resources
+C:\Users\alexg\Desktop\лабы\TaskSix_Paint\TaskSix_Paint\obj\Debug\TaskSix_Paint.Properties.Resources.resources
+C:\Users\alexg\Desktop\лабы\TaskSix_Paint\TaskSix_Paint\obj\Debug\TaskSix_Paint.csproj.GenerateResource.Cache
+C:\Users\alexg\Desktop\лабы\TaskSix_Paint\TaskSix_Paint\obj\Debug\TaskSix_Paint.csproj.CoreCompileInputs.cache
+C:\Users\alexg\Desktop\лабы\TaskSix_Paint\TaskSix_Paint\obj\Debug\TaskSix_Paint.exe
+C:\Users\alexg\Desktop\лабы\TaskSix_Paint\TaskSix_Paint\obj\Debug\TaskSix_Paint.pdb
+C:\Users\alexg\Desktop\лабы\TaskSix_Paint\TaskSix_Paint\bin\Debug\TaskSix_Paint.exe
+C:\Users\alexg\Desktop\лабы\TaskSix_Paint\TaskSix_Paint\bin\Debug\TaskSix_Paint.pdb
+C:\Users\alexg\Desktop\лабы\2nd course\TaskSix_Paint\TaskSix_Paint\bin\Debug\TaskSix_Paint.exe
+C:\Users\alexg\Desktop\лабы\2nd course\TaskSix_Paint\TaskSix_Paint\bin\Debug\TaskSix_Paint.pdb
+C:\Users\alexg\Desktop\лабы\2nd course\TaskSix_Paint\TaskSix_Paint\obj\Debug\TaskSix_Paint.csprojResolveAssemblyReference.cache
+C:\Users\alexg\Desktop\лабы\2nd course\TaskSix_Paint\TaskSix_Paint\obj\Debug\TaskSix_Paint.Form1.resources
+C:\Users\alexg\Desktop\лабы\2nd course\TaskSix_Paint\TaskSix_Paint\obj\Debug\TaskSix_Paint.Properties.Resources.resources
+C:\Users\alexg\Desktop\лабы\2nd course\TaskSix_Paint\TaskSix_Paint\obj\Debug\TaskSix_Paint.csproj.GenerateResource.Cache
+C:\Users\alexg\Desktop\лабы\2nd course\TaskSix_Paint\TaskSix_Paint\obj\Debug\TaskSix_Paint.csproj.CoreCompileInputs.cache
+C:\Users\alexg\Desktop\лабы\2nd course\TaskSix_Paint\TaskSix_Paint\obj\Debug\TaskSix_Paint.exe
+C:\Users\alexg\Desktop\лабы\2nd course\TaskSix_Paint\TaskSix_Paint\obj\Debug\TaskSix_Paint.pdb
+C:\Users\alexg\Desktop\лабы\2nd course\TaskSix_Paint\TaskSix_Paint\obj\Debug\TaskSix_Paint.DataForm.resources
+C:\Users\alexg\Desktop\лабы\2nd course\TaskSix_Paint_command\TaskSix_Paint\bin\Debug\TaskSix_Paint.exe
+C:\Users\alexg\Desktop\лабы\2nd course\TaskSix_Paint_command\TaskSix_Paint\bin\Debug\TaskSix_Paint.pdb
+C:\Users\alexg\Desktop\лабы\2nd course\TaskSix_Paint_command\TaskSix_Paint\obj\Debug\TaskSix_Paint.csprojResolveAssemblyReference.cache
+C:\Users\alexg\Desktop\лабы\2nd course\TaskSix_Paint_command\TaskSix_Paint\obj\Debug\TaskSix_Paint.DataForm.resources
+C:\Users\alexg\Desktop\лабы\2nd course\TaskSix_Paint_command\TaskSix_Paint\obj\Debug\TaskSix_Paint.Form1.resources
+C:\Users\alexg\Desktop\лабы\2nd course\TaskSix_Paint_command\TaskSix_Paint\obj\Debug\TaskSix_Paint.Properties.Resources.resources
+C:\Users\alexg\Desktop\лабы\2nd course\TaskSix_Paint_command\TaskSix_Paint\obj\Debug\TaskSix_Paint.csproj.GenerateResource.Cache
+C:\Users\alexg\Desktop\лабы\2nd course\TaskSix_Paint_command\TaskSix_Paint\obj\Debug\TaskSix_Paint.csproj.CoreCompileInputs.cache
+C:\Users\alexg\Desktop\лабы\2nd course\TaskSix_Paint_command\TaskSix_Paint\obj\Debug\TaskSix_Paint.exe
+C:\Users\alexg\Desktop\лабы\2nd course\TaskSix_Paint_command\TaskSix_Paint\obj\Debug\TaskSix_Paint.pdb
+C:\Users\alexg\Desktop\лабы\2nd course\TaskSix_Paint_command\TaskSix_Paint\obj\Debug\TaskSix_Paint.AboutForm.resources
+C:\Users\студент\Desktop\TaskSix_Paint_command\TaskSix_Paint\obj\Debug\TaskSix_Paint.exe
+C:\Users\студент\Desktop\TaskSix_Paint_command\TaskSix_Paint\obj\Debug\TaskSix_Paint.pdb
+C:\Users\студент\Desktop\TaskSix_Paint_command\TaskSix_Paint\bin\Debug\TaskSix_Paint.exe
+C:\Users\студент\Desktop\TaskSix_Paint_command\TaskSix_Paint\bin\Debug\TaskSix_Paint.pdb
+C:\Users\студент\Desktop\TaskSix_Paint_command\TaskSix_Paint\obj\Debug\TaskSix_Paint.csprojResolveAssemblyReference.cache
+C:\Users\студент\Desktop\TaskSix_Paint_command\TaskSix_Paint\obj\Debug\TaskSix_Paint.AboutForm.resources
+C:\Users\студент\Desktop\TaskSix_Paint_command\TaskSix_Paint\obj\Debug\TaskSix_Paint.DataForm.resources
+C:\Users\студент\Desktop\TaskSix_Paint_command\TaskSix_Paint\obj\Debug\TaskSix_Paint.Form1.resources
+C:\Users\студент\Desktop\TaskSix_Paint_command\TaskSix_Paint\obj\Debug\TaskSix_Paint.Properties.Resources.resources
+C:\Users\студент\Desktop\TaskSix_Paint_command\TaskSix_Paint\obj\Debug\TaskSix_Paint.csproj.GenerateResource.Cache
+C:\Users\alexg\Desktop\TaskSix_Paint_command\TaskSix_Paint\obj\Debug\TaskSix_Paint.csprojResolveAssemblyReference.cache
+C:\Users\alexg\Desktop\TaskSix_Paint_command\TaskSix_Paint\obj\Debug\TaskSix_Paint.AboutForm.resources
+C:\Users\alexg\Desktop\TaskSix_Paint_command\TaskSix_Paint\obj\Debug\TaskSix_Paint.DataForm.resources
+C:\Users\alexg\Desktop\TaskSix_Paint_command\TaskSix_Paint\obj\Debug\TaskSix_Paint.FileForm.resources
+C:\Users\alexg\Desktop\TaskSix_Paint_command\TaskSix_Paint\obj\Debug\TaskSix_Paint.Form1.resources
+C:\Users\alexg\Desktop\TaskSix_Paint_command\TaskSix_Paint\obj\Debug\TaskSix_Paint.Properties.Resources.resources
+C:\Users\alexg\Desktop\TaskSix_Paint_command\TaskSix_Paint\obj\Debug\TaskSix_Paint.csproj.GenerateResource.Cache
+C:\Users\alexg\Desktop\TaskSix_Paint_command\TaskSix_Paint\obj\Debug\TaskSix_Paint.csproj.CoreCompileInputs.cache
+C:\Users\alexg\Desktop\TaskSix_Paint_command\TaskSix_Paint\obj\Debug\TaskSix_Paint.exe
+C:\Users\alexg\Desktop\TaskSix_Paint_command\TaskSix_Paint\obj\Debug\TaskSix_Paint.pdb
+C:\Users\alexg\Desktop\TaskSix_Paint_command\TaskSix_Paint\bin\Debug\TaskSix_Paint.exe
+C:\Users\alexg\Desktop\TaskSix_Paint_command\TaskSix_Paint\bin\Debug\TaskSix_Paint.pdb
+C:\Users\Teacher1\Desktop\TaskSix_Paint_command\TaskSix_Paint\obj\Debug\TaskSix_Paint.exe
+C:\Users\Teacher1\Desktop\TaskSix_Paint_command\TaskSix_Paint\obj\Debug\TaskSix_Paint.pdb
+C:\Users\Teacher1\Desktop\TaskSix_Paint_command\TaskSix_Paint\bin\Debug\TaskSix_Paint.exe
+C:\Users\Teacher1\Desktop\TaskSix_Paint_command\TaskSix_Paint\bin\Debug\TaskSix_Paint.pdb
+C:\Users\Teacher1\Desktop\TaskSix_Paint_command\TaskSix_Paint\obj\Debug\TaskSix_Paint.csprojResolveAssemblyReference.cache
+C:\Users\Teacher1\Desktop\TaskSix_Paint_command\TaskSix_Paint\obj\Debug\TaskSix_Paint.AboutForm.resources
+C:\Users\Teacher1\Desktop\TaskSix_Paint_command\TaskSix_Paint\obj\Debug\TaskSix_Paint.DataForm.resources
+C:\Users\Teacher1\Desktop\TaskSix_Paint_command\TaskSix_Paint\obj\Debug\TaskSix_Paint.FileForm.resources
+C:\Users\Teacher1\Desktop\TaskSix_Paint_command\TaskSix_Paint\obj\Debug\TaskSix_Paint.Form1.resources
+C:\Users\Teacher1\Desktop\TaskSix_Paint_command\TaskSix_Paint\obj\Debug\TaskSix_Paint.Properties.Resources.resources
+C:\Users\Teacher1\Desktop\TaskSix_Paint_command\TaskSix_Paint\obj\Debug\TaskSix_Paint.csproj.GenerateResource.Cache
+D:\Folder\лабы\2nd course\TaskSix_Paint_comma\TaskSix_Paint\bin\Debug\TaskSix_Paint.exe
+D:\Folder\лабы\2nd course\TaskSix_Paint_comma\TaskSix_Paint\bin\Debug\TaskSix_Paint.pdb
+D:\Folder\лабы\2nd course\TaskSix_Paint_comma\TaskSix_Paint\obj\Debug\TaskSix_Paint.csprojResolveAssemblyReference.cache
+D:\Folder\лабы\2nd course\TaskSix_Paint_comma\TaskSix_Paint\obj\Debug\TaskSix_Paint.AboutForm.resources
+D:\Folder\лабы\2nd course\TaskSix_Paint_comma\TaskSix_Paint\obj\Debug\TaskSix_Paint.DataForm.resources
+D:\Folder\лабы\2nd course\TaskSix_Paint_comma\TaskSix_Paint\obj\Debug\TaskSix_Paint.Form1.resources
+D:\Folder\лабы\2nd course\TaskSix_Paint_comma\TaskSix_Paint\obj\Debug\TaskSix_Paint.Properties.Resources.resources
+D:\Folder\лабы\2nd course\TaskSix_Paint_comma\TaskSix_Paint\obj\Debug\TaskSix_Paint.csproj.GenerateResource.Cache
+D:\Folder\лабы\2nd course\TaskSix_Paint_comma\TaskSix_Paint\obj\Debug\TaskSix_Paint.csproj.CoreCompileInputs.cache
+D:\Folder\лабы\2nd course\TaskSix_Paint_comma\TaskSix_Paint\obj\Debug\TaskSix_Paint.exe
+D:\Folder\лабы\2nd course\TaskSix_Paint_comma\TaskSix_Paint\obj\Debug\TaskSix_Paint.pdb
+C:\Users\User\Desktop\TaskSix_Paint_comma\TaskSix_Paint\bin\Debug\TaskSix_Paint.exe
+C:\Users\User\Desktop\TaskSix_Paint_comma\TaskSix_Paint\bin\Debug\TaskSix_Paint.pdb
+C:\Users\User\Desktop\TaskSix_Paint_comma\TaskSix_Paint\obj\Debug\TaskSix_Paint.csprojAssemblyReference.cache
+C:\Users\User\Desktop\TaskSix_Paint_comma\TaskSix_Paint\obj\Debug\TaskSix_Paint.AboutForm.resources
+C:\Users\User\Desktop\TaskSix_Paint_comma\TaskSix_Paint\obj\Debug\TaskSix_Paint.DataForm.resources
+C:\Users\User\Desktop\TaskSix_Paint_comma\TaskSix_Paint\obj\Debug\TaskSix_Paint.Form1.resources
+C:\Users\User\Desktop\TaskSix_Paint_comma\TaskSix_Paint\obj\Debug\TaskSix_Paint.InfoForm.resources
+C:\Users\User\Desktop\TaskSix_Paint_comma\TaskSix_Paint\obj\Debug\TaskSix_Paint.Properties.Resources.resources
+C:\Users\User\Desktop\TaskSix_Paint_comma\TaskSix_Paint\obj\Debug\TaskSix_Paint.csproj.GenerateResource.cache
+C:\Users\User\Desktop\TaskSix_Paint_comma\TaskSix_Paint\obj\Debug\TaskSix_Paint.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\TaskSix_Paint_comma\TaskSix_Paint\obj\Debug\TaskSix_Paint.exe
+C:\Users\User\Desktop\TaskSix_Paint_comma\TaskSix_Paint\obj\Debug\TaskSix_Paint.pdb
+D:\Folder\лабы\2nd course\OOP\TaskSix_Paint_comma\TaskSix_Paint\bin\Debug\TaskSix_Paint.exe
+D:\Folder\лабы\2nd course\OOP\TaskSix_Paint_comma\TaskSix_Paint\bin\Debug\TaskSix_Paint.pdb
+D:\Folder\лабы\2nd course\OOP\TaskSix_Paint_comma\TaskSix_Paint\obj\Debug\TaskSix_Paint.csprojResolveAssemblyReference.cache
+D:\Folder\лабы\2nd course\OOP\TaskSix_Paint_comma\TaskSix_Paint\obj\Debug\TaskSix_Paint.AboutForm.resources
+D:\Folder\лабы\2nd course\OOP\TaskSix_Paint_comma\TaskSix_Paint\obj\Debug\TaskSix_Paint.DataForm.resources
+D:\Folder\лабы\2nd course\OOP\TaskSix_Paint_comma\TaskSix_Paint\obj\Debug\TaskSix_Paint.Form1.resources
+D:\Folder\лабы\2nd course\OOP\TaskSix_Paint_comma\TaskSix_Paint\obj\Debug\TaskSix_Paint.InfoForm.resources
+D:\Folder\лабы\2nd course\OOP\TaskSix_Paint_comma\TaskSix_Paint\obj\Debug\TaskSix_Paint.Properties.Resources.resources
+D:\Folder\лабы\2nd course\OOP\TaskSix_Paint_comma\TaskSix_Paint\obj\Debug\TaskSix_Paint.csproj.GenerateResource.Cache
+D:\Folder\лабы\2nd course\OOP\TaskSix_Paint_comma\TaskSix_Paint\obj\Debug\TaskSix_Paint.csproj.CoreCompileInputs.cache
+D:\Folder\лабы\2nd course\OOP\TaskSix_Paint_comma\TaskSix_Paint\obj\Debug\TaskSix_Paint.exe
+D:\Folder\лабы\2nd course\OOP\TaskSix_Paint_comma\TaskSix_Paint\obj\Debug\TaskSix_Paint.pdb
+D:\Folder\лабы\2nd course\OOP\TaskSix_Paint\TaskSix_Paint\bin\Debug\TaskSix_Paint.exe
+D:\Folder\лабы\2nd course\OOP\TaskSix_Paint\TaskSix_Paint\bin\Debug\TaskSix_Paint.pdb
+D:\Folder\лабы\2nd course\OOP\TaskSix_Paint\TaskSix_Paint\obj\Debug\TaskSix_Paint.csprojResolveAssemblyReference.cache
+D:\Folder\лабы\2nd course\OOP\TaskSix_Paint\TaskSix_Paint\obj\Debug\TaskSix_Paint.AboutForm.resources
+D:\Folder\лабы\2nd course\OOP\TaskSix_Paint\TaskSix_Paint\obj\Debug\TaskSix_Paint.DataForm.resources
+D:\Folder\лабы\2nd course\OOP\TaskSix_Paint\TaskSix_Paint\obj\Debug\TaskSix_Paint.Form1.resources
+D:\Folder\лабы\2nd course\OOP\TaskSix_Paint\TaskSix_Paint\obj\Debug\TaskSix_Paint.InfoForm.resources
+D:\Folder\лабы\2nd course\OOP\TaskSix_Paint\TaskSix_Paint\obj\Debug\TaskSix_Paint.Properties.Resources.resources
+D:\Folder\лабы\2nd course\OOP\TaskSix_Paint\TaskSix_Paint\obj\Debug\TaskSix_Paint.csproj.GenerateResource.Cache
+D:\Folder\лабы\2nd course\OOP\TaskSix_Paint\TaskSix_Paint\obj\Debug\TaskSix_Paint.csproj.CoreCompileInputs.cache
+D:\Folder\лабы\2nd course\OOP\TaskSix_Paint\TaskSix_Paint\obj\Debug\TaskSix_Paint.exe
+D:\Folder\лабы\2nd course\OOP\TaskSix_Paint\TaskSix_Paint\obj\Debug\TaskSix_Paint.pdb
+D:\LocalGit\GitHub\TaskSix_Paint\TaskSix_Paint\bin\Debug\TaskSix_Paint.exe
+D:\LocalGit\GitHub\TaskSix_Paint\TaskSix_Paint\bin\Debug\TaskSix_Paint.pdb
+D:\LocalGit\GitHub\TaskSix_Paint\TaskSix_Paint\obj\Debug\TaskSix_Paint.csprojResolveAssemblyReference.cache
+D:\LocalGit\GitHub\TaskSix_Paint\TaskSix_Paint\obj\Debug\TaskSix_Paint.AboutForm.resources
+D:\LocalGit\GitHub\TaskSix_Paint\TaskSix_Paint\obj\Debug\TaskSix_Paint.DataForm.resources
+D:\LocalGit\GitHub\TaskSix_Paint\TaskSix_Paint\obj\Debug\TaskSix_Paint.Form1.resources
+D:\LocalGit\GitHub\TaskSix_Paint\TaskSix_Paint\obj\Debug\TaskSix_Paint.InfoForm.resources
+D:\LocalGit\GitHub\TaskSix_Paint\TaskSix_Paint\obj\Debug\TaskSix_Paint.Properties.Resources.resources
+D:\LocalGit\GitHub\TaskSix_Paint\TaskSix_Paint\obj\Debug\TaskSix_Paint.csproj.GenerateResource.Cache
+D:\LocalGit\GitHub\TaskSix_Paint\TaskSix_Paint\obj\Debug\TaskSix_Paint.csproj.CoreCompileInputs.cache
+D:\LocalGit\GitHub\TaskSix_Paint\TaskSix_Paint\obj\Debug\TaskSix_Paint.exe
+D:\LocalGit\GitHub\TaskSix_Paint\TaskSix_Paint\obj\Debug\TaskSix_Paint.pdb
