@@ -4,3 +4,4 @@
 
 Сделан для тренировки навыков по ООП и паттернам ( Composite, Command, Observer, Iterator, Prototype, Factory Method )
 
+скрин программы можно увидеть в папке screens
